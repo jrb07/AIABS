@@ -29,7 +29,7 @@ var backgroundSignal = 0;									//this will be set each image to keep track of
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////#############################
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////Start of the main code block
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////#############################
-waitForUser("Welcome to the quantification macro. Please ensure that the ROI Manager and other images are closed before continuing.");								//give the user a heads up to close all windows
+waitForUser("Welcome to AIABS. Please ensure that the ROI Manager and other images are closed before continuing.");								//give the user a heads up to close all windows
 waitForUser("Please ensure all images are in the same folder with no other files. Next you will be prompted to open the first image.");								//give the user a heads up that they should open the first image in the directory
 open();																							//ask user to open an image
 requestSettings();																				//requestSettings() function will open up a dialog to get all the user-defined settings
