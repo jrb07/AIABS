@@ -5,6 +5,5 @@ Hello and welcome to the project Automated Image Analysis with Background Subtra
 Please download all the files as a .zip and unzip the contents of AIABS-master into your ImageJ plugins directory (...ImageJ/Plugins/).
 From ImageJ install the plugin Sulkowski_Lab.
 Resetart ImageJ.
-Run Sulkowski_Lab.
+Open the 'Plugins' drop-down.
 Select AIABS.
-Press "Ok".
