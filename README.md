@@ -5,6 +5,6 @@ Hello and welcome to the Automated Image Analysis with Background Subtraction (A
 To install and use this project which consists of one main (.ijm) script please follow the directions below.
 
 Please download all the files as a .zip and unzip the contents of AIABS-master into this directory (...ImageJ/Plugins/Scripts/Plugins).
-Resetart ImageJ.
+Restart ImageJ.
 Open the 'Plugins' drop-down.
 Select AIABS.
