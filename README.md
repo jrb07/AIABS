@@ -1,4 +1,4 @@
-AIABS 2019 designed and developed by Jeremy Brown, Southern Arkansas University Magnolia, AR. Southern Connecticut State University New Haven, CT. University of Colorado Boulder, CO.
+AIABS 2019 designed and developed by Jeremy Brown.
 Special thanks for the testing and guidance provided by both Dr. Mikolaj Sulkowski and Chan Phongthachit, Southern Connecticut State University New Haven, CT.
 
 Hello and welcome to the Automated Image Analysis with Background Subtraction (AIABS) project.
